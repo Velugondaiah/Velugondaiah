@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node.js, REST APIs, Distributed Backends, Databases**
 
-- 📫 How to reach me **garlapativelugondaiah45@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
